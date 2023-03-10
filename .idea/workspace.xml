@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d70368cb-12c1-4704-bf87-ceddc87fa888" name="Changes" comment="Laborator 1">
-      <change afterPath="$PROJECT_DIR$/src/persoana/Persoana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="d70368cb-12c1-4704-bf87-ceddc87fa888" name="Changes" comment="Laborator 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +66,7 @@
       <workItem from="1677248755359" duration="420000" />
       <workItem from="1677249210708" duration="558000" />
       <workItem from="1677249805384" duration="813000" />
-      <workItem from="1677852329872" duration="5731000" />
+      <workItem from="1677852329872" duration="5945000" />
     </task>
     <task id="LOCAL-00001" summary="Laborator 1">
       <created>1677852418925</created>
@@ -79,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677852418925</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Laborator 2">
+      <created>1677858316989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677858316989</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +101,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Laborator 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Laborator 1" />
+    <MESSAGE value="Laborator 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laborator 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
