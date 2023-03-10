@@ -1,0 +1,14 @@
+3
+1 Rex
+2 Mustacioare
+3 Albastrel
+2
+Vaccin 10
+Insulina 2
+6
+0 0
+0 1
+1 0
+1 1
+2 0
+2 1

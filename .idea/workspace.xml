@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d70368cb-12c1-4704-bf87-ceddc87fa888" name="Changes" comment="Laborator 2" />
+    <list default="true" id="d70368cb-12c1-4704-bf87-ceddc87fa888" name="Changes" comment="Laborator 2">
+      <change afterPath="$PROJECT_DIR$/src/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/Caine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/Papagal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/Pisica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tratament/Tratament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/persoana/Persoana.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -67,6 +78,7 @@
       <workItem from="1677249210708" duration="558000" />
       <workItem from="1677249805384" duration="813000" />
       <workItem from="1677852329872" duration="5945000" />
+      <workItem from="1678458418596" duration="3083000" />
     </task>
     <task id="LOCAL-00001" summary="Laborator 1">
       <created>1677852418925</created>
@@ -82,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677858316989</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Laborator 2">
+      <created>1678458454301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678458454304</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,21 +122,5 @@
     <MESSAGE value="Laborator 1" />
     <MESSAGE value="Laborator 2" />
     <option name="LAST_COMMIT_MESSAGE" value="Laborator 2" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>74</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>107</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
