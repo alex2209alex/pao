@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d70368cb-12c1-4704-bf87-ceddc87fa888" name="Changes" comment="Laborator 3">
-      <change afterPath="$PROJECT_DIR$/src/point/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poligon/Polygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poligon/Triunghi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suma/CalculSuma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suma/TermenGeneral.java" afterDir="false" />
+    <list default="true" id="d70368cb-12c1-4704-bf87-ceddc87fa888" name="Changes" comment="Laborator 5">
+      <change afterPath="$PROJECT_DIR$/src/angajat/Angajat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/angajat/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/angajat/DirectorEchipa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/angajat/DirectorEchipaIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/angajat/DirectorGeneral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/angajat/Programator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/angajat/ProgramatorJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/angajat/Secretar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firma/Firma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/Caine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/Papagal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/Pisica.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tratament/Tratament.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/point/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poligon/Polygon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poligon/Triunghi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/suma/CalculSuma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/suma/TermenGeneral.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +55,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="angajat" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alex\IdeaProjects\pao\src" />
     </key>
@@ -84,7 +90,10 @@
       <workItem from="1677852329872" duration="5945000" />
       <workItem from="1678458418596" duration="4265000" />
       <workItem from="1679660449948" duration="9000" />
-      <workItem from="1679666752439" duration="2256000" />
+      <workItem from="1679666752439" duration="2990000" />
+      <workItem from="1679759771774" duration="4000" />
+      <workItem from="1680268027688" duration="1791000" />
+      <workItem from="1680270211866" duration="1791000" />
     </task>
     <task id="LOCAL-00001" summary="Laborator 1">
       <created>1677852418925</created>
@@ -114,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678463169402</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Laborator 5">
+      <created>1679671301824</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679671301824</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +151,7 @@
     <MESSAGE value="Laborator 1" />
     <MESSAGE value="Laborator 2" />
     <MESSAGE value="Laborator 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Laborator 3" />
+    <MESSAGE value="Laborator 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laborator 5" />
   </component>
 </project>
